@@ -41,6 +41,7 @@
 - [x] 18. Hide Backlinks
 - [x] 19. Small Text
 - [x] 20. Bolder Text
+- [x] 21. Narrow Row Spacing 
 
 
 ---
