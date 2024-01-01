@@ -2,9 +2,9 @@
 
 ![](./images/header.png)
 
-An extension for notion notes that supports a more useful image viewer, icon history, side outline, and more.
+🚩An extension for notion notes that supports a more useful image viewer, icon history, side outline, and more.
 
-| [Notion Mate Website](https://handy-humidity-660.notion.site/Notion-Mate-f0d639e5f48d4aeabde46f1fabb66a82)
+| 🌐 [Notion Mate Website](https://handy-humidity-660.notion.site/Notion-Mate-f0d639e5f48d4aeabde46f1fabb66a82)
 
 ## Installation
 
@@ -15,7 +15,7 @@ An extension for notion notes that supports a more useful image viewer, icon his
 
 ## Feedback
 
-Submit an [issue](https://github.com/joansnotion/NotionMate/issues) if you encounter problems during use.
+⚠️ Submit an [issue](https://github.com/joansnotion/NotionMate/issues) if you encounter problems during use.
 
 ## Features
 
