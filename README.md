@@ -1,6 +1,6 @@
 # Notion Mate
 
-![](./images/propagate.png)
+![](./images/header.png)
 
 An extension for notion notes that supports a more useful image viewer, icon history, side outline, and more.
 
@@ -41,3 +41,8 @@ Submit an [issue](https://github.com/joansnotion/NotionMate/issues) if you encou
 - [x] 18. Hide Backlinks
 - [x] 19. Small Text
 - [x] 20. Bolder Text
+
+
+---
+
+***Made .with. by @Joans · Powered .by .Notion***
