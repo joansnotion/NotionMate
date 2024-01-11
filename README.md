@@ -42,6 +42,10 @@
 - [x] 19. Small Text
 - [x] 20. Bolder Text
 - [x] 21. Narrow Row Spacing 
+- [x] 22. Hide Slash Command
+- [x] 23. Compact Code Block
+- [x] 24. Auto Set Default Font
+- [x] 25. Hide Hover Page Preview
 
 
 ---
