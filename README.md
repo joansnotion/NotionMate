@@ -4,7 +4,13 @@
 
 🚩An extension for notion notes that supports a more useful image viewer, icon history, side outline, and more.
 
-| 🌐 [Notion Mate Website](https://handy-humidity-660.notion.site/Notion-Mate-f0d639e5f48d4aeabde46f1fabb66a82)
+With Notion Mate, you can enjoy unlimited zoom, pan, and rotation in the image viewer, allowing you to get a closer look at your images. The extension also provides an icon history feature, which allows you to easily access previously used icons in your Notion notes.
+
+In addition, Notion Mate offers various other useful features such as a side outline, full-width view, beautify scrollbar, and the ability to hide notifications and the comment section. You can also enable small text, code line numbers, indentation lines, and prevent table overflow for a more organized and streamlined note-taking experience.
+
+Overall, Notion Mate is a valuable extension for Notion users who want to enhance their productivity and customize their note-taking environment. Give it a try and take your Notion experience to the next level.
+
+| 🌐 [Notion Mate Website](https://www.notionmate.top)
 
 ## Installation
 
@@ -46,6 +52,7 @@
 - [x] 23. Compact Code Block
 - [x] 24. Auto Set Default Font
 - [x] 25. Hide Hover Page Preview
+- [x] 26. Change Custom Font
 
 
 ---
