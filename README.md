@@ -17,7 +17,7 @@ Overall, **Notion Mate** is a valuable extension for Notion users who want to en
 ## Installation
 
 1. 🔻[Chrome Store](https://chromewebstore.google.com/detail/notion-mate/pplckfedebdimphneohkmhlmhompgpmn)
-2. 🔻[Edge store](https://chromewebstore.google.com/detail/notion-mate/pplckfedebdimphneohkmhlmhompgpmn)
+2. 🔻[Edge store](https://microsoftedge.microsoft.com/addons/detail/notion-mate/dfpnkdcllpohpikeedpejodbloiimdib)
 
 ⭐⭐⭐⭐⭐If you find it helpful to you, hope to get your five-star praise, thank you!
 
@@ -56,7 +56,11 @@ Overall, **Notion Mate** is a valuable extension for Notion users who want to en
 - [x] 25. Hide Hover Page Preview
 - [x] 26. Change Custom Font
 - [x] 27. Hide Sidebar Toolbuttons
-
+- [x] 28. Hide AI Menu When Press Space 
+- [x] 29. Fixed Favicon
+- [x] 30. Mark Manager
+- [x] 31. Align Caption
+- [x] 32. Medium Width
 
 ---
 
