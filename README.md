@@ -2,7 +2,7 @@
 
 ![](./images/header.png)
 
-🚩An extension for notion notes that supports a more useful image viewer, icon history, side outline, and more.
+🚩Chrome and Edge browser extensions make your Notion more efficient and enhance your experience. Supports unlimited zoom, pan, and rotation of the image viewer, as well as icon history, colored text mark manager.
 
 With **Notion Mate**©️, you can enjoy unlimited zoom, pan, and rotation in the image viewer, allowing you to get a closer look at your images. The extension also provides an 📜 icon history feature, which allows you to easily access previously used icons in your Notion notes 🗒️.
 
@@ -28,6 +28,8 @@ Overall, **Notion Mate** is a valuable extension for Notion users who want to en
 ## Features
 
 ![](./images/bigpropagate.png)
+![](./images/light-themes.png)
+![](./images/dark-themes.png)
 
 - [x] 1. Outline
 - [x] 2. Image Viewer
@@ -61,6 +63,9 @@ Overall, **Notion Mate** is a valuable extension for Notion users who want to en
 - [x] 30. Mark Manager
 - [x] 31. Align Caption
 - [x] 32. Medium Width
+- [x] 33. Center Header
+- [x] 34. Multiple Beautiful Themes
+- [x] 35. Hide Link Arrow
 
 ---
 
