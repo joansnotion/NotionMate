@@ -66,6 +66,9 @@ Overall, **Notion Mate** is a valuable extension for Notion users who want to en
 - [x] 33. Center Header
 - [x] 34. Multiple Beautiful Themes
 - [x] 35. Hide Link Arrow
+- [x] 36. Hide Corner AI Button
+- [x] 37. Align Image (left, center, right)
+- [x] 38. Hide Notion Default TOC 
 
 ---
 
